@@ -2,7 +2,7 @@
 
 A sleek, modern web application that allows you to convert YouTube videos to MP3 audio or MP4 video formats with ease. Built with Next.js and powered by yt-dlp.
 
-![YouTube Converter](https://i.imgur.com/placeholder.png)
+![YouTube Converter](media/img.png)
 
 ## ✨ Features
 
