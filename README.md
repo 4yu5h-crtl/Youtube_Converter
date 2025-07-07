@@ -2,6 +2,8 @@
 
 A sleek, modern web application that allows you to convert YouTube videos to MP3 audio or MP4 video formats with ease. Built with Next.js and powered by yt-dlp.
 
+![YouTube Converter](https://i.imgur.com/placeholder.png)
+
 ## ✨ Features
 
 - **Multiple Format Support**: Convert YouTube videos to MP3 (audio) or MP4 (video)
@@ -29,7 +31,7 @@ A sleek, modern web application that allows you to convert YouTube videos to MP3
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/4yu5h-crtl/Youtube_Converter.git
+   git clone https://github.com/yourusername/Youtube_Converter.git
    cd Youtube_Converter
    ```
 
